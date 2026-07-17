@@ -4,7 +4,7 @@ from libpysal.weights import Rook
 import warnings
 warnings.filterwarnings('ignore')
 
-SHAPEFILE_PATH = 'data/GA-shapefiles/GA_precincts/GA_precincts16.shp'
+SHAPEFILE_PATH = 'data/GA-shapefiles/GA_precincts16.shp'
 
 NODE_ATTRS = ['TOTPOP', 'VAP', 'BVAP', 'WVAP', 'CD', 'PRES16D', 'PRES16R']
 
