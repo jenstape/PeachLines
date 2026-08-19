@@ -120,3 +120,6 @@ This is a simplified version of the **ReCom** (Regional Recombination) proposal 
 - [ ] Export generated plans as shapefiles
 - [ ] Multi-state support
 - [ ] Cloud deployment
+
+## Screenshot 
+![Screenshot](peachlines_redrawn_webpage.png)
