@@ -1,4 +1,4 @@
-# 🍑 PeachLines — Georgia's Congressional Districts, Redrawn
+# PeachLines — Georgia's Congressional Districts, Redrawn
 
 An algorithmic redistricting tool that generates and evaluates alternative congressional district maps for Georgia using MCMC ensemble sampling — scoring each plan against compactness, population equality, partisan fairness, and Voting Rights Act compliance.
 
